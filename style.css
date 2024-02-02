@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+div {
+    margin: 300px auto;
+    width: 50%;
+    text-align: center;
+}
+
+div img {
+    border: 5px solid white;
+    width: 100%;
+    transition: img 1s ease-in-out;
+    background-image: url("./assets/images/dead.gif");
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+}
